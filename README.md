@@ -9,4 +9,4 @@ JavaScript
 VS Code
 
 **Website link**
- https://francistinao.github.io/ite10-movie-catalogue-furashizu/
+ https://furashizu-movie.netlify.app/
