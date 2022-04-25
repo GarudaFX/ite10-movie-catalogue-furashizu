@@ -22,7 +22,7 @@ body {
   }
   
   body::-webkit-scrollbar-track {
-    background: #000;  
+    background-color: #000;  
   }
   
   body::-webkit-scrollbar-thumb {
